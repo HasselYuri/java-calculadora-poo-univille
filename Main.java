@@ -14,6 +14,7 @@ public class Main {
             System.out.println("+--2° Opção -> Histórico-+");
             System.out.println("+--0° Opção -> Sair------+");
             System.out.println("+--Escolha uma opção-----+");
+            escolha = scanner.nextInt();
 
             switch (escolha) {
                 case 1:
